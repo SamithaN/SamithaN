@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samithan" alt="samithan" /></a> </p>
 <img align="right" alt="Coding" width ="400" src="https://i.pinimg.com/originals/eb/24/ac/eb24ac9ceb8b614128ed5945a385206a.gif">
-- 🌱 I’m currently learning **Laravel , Angular**
+- 🌱 I’m currently learning **Reactjs , Angular**
 
 - 💬 Ask me about **Java , C#**
 
